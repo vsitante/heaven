@@ -1,11 +1,14 @@
-<h1>Welcome to comic_git!</h1>
+<h1>Fighting with the gods for our dreams, who lost what you lost</h1>
+					
+		<p>Welcome to Viy Sitante's <em>how can Heaven love me</em>, a funny angst sex-ridden character musing story. Yeah that's right, we won't be giving you a genre here. You either ride or die with the rest of us.</p>
+		<p>(We do think it'd be funny if it fits <a href="https://newrepublic.com/article/61361/human-inhuman">hysterical realism</a> though.)</p>
+		<p>If you like a story that takes across years involving three characters who must come to terms with their desires vs reality, and the consequences of such actions, then welcome.</p>
 
-<p>What you're seeing is the default website created by comic_git, a static-site generator hosted FOR FREE on GitHub Pages, that YOU can use to publish your own web comic easily and quickly!</p>
+	 
+	 <p><em>how can Heaven love me</em> takes its name from <a href="https://www.youtube.com/watch?v=bo83BYcW2DU">the titular song sung by Sarah Brightman and Chris Thompson.</a>
 
-<p>Click <a href="comic/197/#comic-page">here</a> to go to the first page of the sample comic to see how it looks out-of-the-box.<br>
-    You can also click <a href="latest/#comic-page">here</a> to go to the latest page, which will always point to the most recently published comic.</p>
-
-<p>For instructions on how to use comic_git, check out the <a href="https://github.com/ryanvilbrandt/comic_git/wiki">wiki</a>.<br>
-    If you'd like to jump right into creating your own webcomic with comic_git, check out the <a href="https://github.com/ryanvilbrandt/comic_git/wiki/Getting-Started">Getting Started</a> section.</p>
-
-<p>(To edit this page when you're setting up your own website, edit the file <code>/your_content/home page.txt</code>)</p> 
+<p><b>dec.29.2023 update:</b> Posted the last chapter of DOPE <a href="dope3.html">over here</a>. Also added another picrew thing over <a href="fun.html">here</a>.
+<br>
+I will also have to figure out how to add a link to it on here and on my main portfolio but <a href="https://vsitante.itch.io">I also opened an itchio at last!</a> The entire kinktober thing is up as a pdf, feel free to get it if you wish!</p>
+<p><b>nov.07.2023 update:</b> Uploaded the entire kinktober batch to the gallery and comics pages. Astemar's hubby has also been added to the <a href="cast.html">characters</a> page <p>
+<p><b>sep.05.2023 update:</b> I realized that I should probably have some small update thingeroo. I added more art to the <a href="heart.html">gallery</a>, the <a href="comic.html">short comics</a> I've finished as of recent. and adjusted the <a href="cast.html">characters</a> page a bit. On that last one, I forgot to add Astemar's hubby, so I did that...but I also forgot to draw Urán. D'oh! Next time, I suppose.</p>
