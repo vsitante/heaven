@@ -30,6 +30,7 @@
     <link rel="stylesheet" type="text/css" href="{{ base_dir }}/src/css/advanced_stylesheet.css">
     <link rel="stylesheet" type="text/css" href="{{ base_dir }}/your_content/themes/{{ theme }}/css/stylesheet.css">
     <link rel="icon" href="{{ base_dir }}/favicon.ico" type="image/x-icon" />
+	 <link rel="alternate" type="application/rss+xml" href="/feed.xml" title="RSS">
     <meta property="og:title" content="{{ comic_title }}" />
     <meta property="og:description" content="{{ comic_description }}" />
     <meta property="og:type" content="website" />
@@ -37,6 +38,10 @@
     <meta property="og:image" content="{{ comic_url + '/your_content/images/preview_image.png' }}" />
     <meta property="og:image:width" content="100px" />
     <meta property="og:image:height" content="100px" />
+	<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA" />
+	  <meta name="robots" content="noimageai">
+  <meta name="robots" content="noai">
+  <meta name="keywords" content="comic, comics, webcomics, puerto rican, puerto rican creator, puerto rican webcomics, puerto rican comics, comics puertorriqueños, cómics puertorriqueños, webcomics puertorriqueños, creador puertorriqueño, creador puertorriqueña, read comics online, erotic art, arte erótico, erotica, porn comics, nsfw comics, hentai, hentai comics, nsfw, 18+ comics, how can heaven love me, polyamory, threesome, transgender character, zine, zines, novella, original novella">
     <title>{{ page_title }} - {{ comic_title }}</title>
     {%- endblock %}
 </head>
@@ -65,7 +70,7 @@
     {% block content %}{% endblock %}
 
     <div id="powered-by">
-        Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git">comic_git</a> v{{ version }}
+        Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git">comic_git</a> v{{ version }}. All work, unless otherwise noted (C) Viy Sitante, 2021-present.
     </div>
 </div>
 {% endblock %}

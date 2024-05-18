@@ -18,7 +18,7 @@ body {
 
 div#container {
     display: inline-block;
-    text-align: center;
+    text-align: left;
     margin: 15px;
     padding: 30px;
 }
@@ -229,8 +229,7 @@ body {
     font-family: 'Actor', sans-serif;  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
-    background-image: url("../../your_content/images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
-                                                       or replace with your own image to tile across your background. */
+    background-image: url("../../your_content/images/background_image.png");  /* The pattern on the background. Delete to change to a solid color or replace with your own image to tile across your background. */
 }
 
 a {
@@ -244,7 +243,7 @@ background: -moz-linear-gradient(180deg, rgba(96,212,255,0.4922446543081648) 0%,
 background: -webkit-linear-gradient(180deg, rgba(96,212,255,0.4922446543081648) 0%, rgba(96,212,255,0.4806839606665463) 100%);
 background: linear-gradient(180deg, rgba(96,212,255,0.4922446543081648) 0%, rgba(96,212,255,0.4806839606665463) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#60d4ff",endColorstr="#60d4ff",GradientType=1);   /* The background color of the main box */
-    box-shadow: 5px 5px 10px lightgray;  /* If you change the background color of website, play with this or else it will look bad. */
+    box-shadow: 5px 5px 10px #2b5b60;  /* If you change the background color of website, play with this or else it will look bad. */
 }
 
 div#links-bar {
@@ -264,9 +263,14 @@ a.link-bar-link:hover {
 }
 
 a.navigation-button {
-    color: maroon;  /* Color of the navigation bar hyperlinks */
+	font-family: 'Delius', cursive;
+    color: #2b5b60;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
+}
+
+a.navigation-button:hover {
+ color:#60d4ff;  
 }
 
 a.navigation-button-disabled {
@@ -276,19 +280,20 @@ a.navigation-button-disabled {
 }
 
 div#blurb {
-    background-color: lightgray;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
+    background-color: #60d4ff;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
     width: 75%;  /* The maximum width of the blurb box. */
-    border-left: 3px dotted lightslategray;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
-    border-right: 3px dotted lightslategray;
+  /*   border-left: 3px dotted lightslategray;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
+    /* border-right: 3px dotted lightslategray; */
 }
 
 h1#page-title {
-	font-family: 'Fondamento', cursive;
-    color: black;  /* Color of the page title */
+	font-family: 'Marcellus SC', serif;
+    color: #49ffe2;  /* Color of the page title */
     font-size: 3em;  /* Font size of the post title */
 }
 
 div#post-date {
+	font-family: 'Fondamento', cursive;
     font-weight: bold;  /* Delete this to unbold the post date */
 }
 
