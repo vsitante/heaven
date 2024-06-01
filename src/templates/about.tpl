@@ -42,7 +42,7 @@
 	  <meta name="robots" content="noimageai">
   <meta name="robots" content="noai">
   <meta name="keywords" content="comic, comics, webcomics, puerto rican, puerto rican creator, puerto rican webcomics, puerto rican comics, comics puertorriqueños, cómics puertorriqueños, webcomics puertorriqueños, creador puertorriqueño, creador puertorriqueña, read comics online, erotic art, arte erótico, erotica, porn comics, nsfw comics, hentai, hentai comics, nsfw, 18+ comics, how can heaven love me, polyamory, threesome, transgender character, zine, zines, novella, original novella">
-    <title>{{ page_title }} - {{ comic_title }}</title>
+    <title>{{ page_title }} - about</title>
     {%- endblock %}
 </head>
 <body>
@@ -67,7 +67,12 @@
     {# This is the start of the `content` block. Nothing is here now because other templates are expected to fill it
        in on their own. It will contain everything on a webpage after the links bar and before the
        "Powered by comic_git" footer. #}
-    {% block content %}{% endblock %}
+    {% block content %}
+	    <h1 id="page-title">an entity about the nature of love and desire and need</h1>
+<p>a proper synopsis will go here one day. for now, have the work in progress one below</p>
+        <hr id="post-body-break">
+<p>a novella about astemar giralt, a legendary idol singer who also can wield magic and ride robots. Yet at her core, what she wants is a normal life, free of predestined struggle and escapes of personal trauma. At the intersection between old adolescence and adulthood, she meets two men, magnus power and max arizmendi, who will slowly unravel her taut psyche—and in the process, break open their own shells.</p>
+	{% endblock %}
 
     <div id="powered-by">
         Powered by <a id="powered-by-link" href="https://ryanvilbrandt.github.io/comic_git">comic_git</a> v{{ version }}. All work, unless otherwise noted (C) Viy Sitante, 2021-present.
