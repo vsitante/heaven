@@ -1,5 +1,202 @@
-	    <h1 id="page-title">an entity about the nature of love and desire and need</h1>
-<p>a proper synopsis will go here one day. for now, have the work in progress one below</p>
-        <hr id="post-body-break">
-		        <div id="post-body">
-<p>a novella about astemar giralt, a legendary idol singer who also can wield magic and ride robots. Yet at her core, what she wants is a normal life, free of predestined struggle and escapes of personal trauma. At the intersection between old adolescence and adulthood, she meets two men, magnus power and max arizmendi, who will slowly unravel her taut psyche—and in the process, break open their own shells.</p>
+<h1>Gallery</h1>	
+			<p><em><b>**</b>Loading times may vary.</em></p>
+
+<p><i>If you've visited my site, then all of this is just a repeat. One day, there might be exclusive-to-this-site-art, but it is not today. Please enjoy what's offered. If I find you reposting without the watermark on these, it won't be pretty. The gallery's in some order of newest to oldest.</i></p>
+
+<p><em>Some of these are image sets, so if some look funky, hover over to see which is which!</em></p>
+		
+	<p><a href="#kink">Kinktober 2023</a> || <a href="#color">Colors</a> ||  <a href="#bw">Black-and-white</a> || <a href="#sketch">Sketches</a></p>
+	
+	
+	<h3 id="kink">Kinktober</h3>
+	<p><em><a href="https://vsitante.neocities.org/nanogallery/kinktober/kinktober%20list.png">Viy's (attempt at) Kinktober 2023 prompt list</a></em></p>
+	<div id="my_9" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/kinktober"
+	}'> 
+
+		 <a href="https://vsitante.neocities.org/nanogallery/kinktober/latex.png" class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/latex.png"></a>
+  </div>
+  
+  	<div id="kink23" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/kinktober"
+	}'> 
+
+<!-- FIRST ALBUM -->
+   
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/bang%20bangv3.png"           data-ngkind="album" data-ngid="1"                     data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/bang%20bangv3.png"></a>
+    
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/bang%20bangv3.png" class="lazy" data-ngid="10" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/bang%20bangv3.png"></a>
+  
+    <a href="https://vsitante.neocities.org/nanogallery/kinktober/bang%20bangv3_talk.png"  class="lazy" data-ngid="11" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/bang%20bangv3_talk.png"></a>
+	
+	</div>
+  
+  <!-- album end -->
+	
+	<div id="kink22" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/kinktober"
+	}'> 
+
+<!-- FIRST ALBUM -->
+   
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/gender%20(2).png"           data-ngkind="album" data-ngid="1"                     data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/gender%20(2).png"></a>
+    
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/gender%20(2).png" class="lazy" data-ngid="10" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/gender%20(2).png"></a>
+  
+    <a href="https://vsitante.neocities.org/nanogallery/kinktober/gender%20(1).png"  class="lazy" data-ngid="11" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/gender%20(1).png"></a>
+	
+	<a href="https://vsitante.neocities.org/nanogallery/kinktober/gender%20(3).png"  class="lazy" data-ngid="12" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/gender%20(3).png"></a>
+		
+	<a href="https://vsitante.neocities.org/nanogallery/kinktober/gender4v2.png"  class="lazy" data-ngid="13" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/gender4v2.png"></a>
+	
+	</div>
+  
+  <!-- album end -->
+	
+	<div id="kink18" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/kinktober"
+	}'> 
+
+<!-- FIRST ALBUM -->
+   
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/bubbies%20milk%20(2).png"           data-ngkind="album" data-ngid="1"                     data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/bubbies%20milk%20(2).png"></a>
+    
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/bubbies%20milk%20(1)v2.png" class="lazy" data-ngid="10" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/bubbies%20milk%20(1)v2.png"></a>
+  
+    <a href="https://vsitante.neocities.org/nanogallery/kinktober/bubbies%20milk%20(2).png"  class="lazy" data-ngid="11" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/bubbies%20milk%20(2).png"></a>
+	
+	</div>
+  
+  <!-- album end -->
+  
+<div id="my_2" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/kinktober"
+	}'> 
+
+		 <a href="https://vsitante.neocities.org/nanogallery/kinktober/xenov3.png" class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/xenov3.png"></a>
+	
+	 <a href="https://vsitante.neocities.org/nanogallery/kinktober/96%20tears.png" class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/96%20tears.png"></a>
+	
+	 <a href="https://vsitante.neocities.org/nanogallery/kinktober/handymen.png" class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/handymen.png"></a>
+	
+	  <a href="https://vsitante.neocities.org/nanogallery/kinktober/shaving2v2.png"class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/shaving2v2.png"></a>
+
+		  <a href="https://vsitante.neocities.org/nanogallery/kinktober/vibratev8.png"  class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/vibratev8.png"></a>
+	  
+	    <a href="https://vsitante.neocities.org/nanogallery/kinktober/leatherv3.png"  class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/leatherv3.png"></a>
+  </div>
+  
+  <div id="kink3" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/kinktober"
+	}'> 
+
+<!-- FIRST ALBUM -->
+   
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/harnessv3-bw%20version.png"           data-ngkind="album" data-ngid="1"                     data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/harnessv3-bw%20version.png"></a>
+    
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/harnessv3.png" class="lazy" data-ngid="10" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/harnessv3.png"></a>
+  
+    <a href="https://vsitante.neocities.org/nanogallery/kinktober/harnessv3-bw%20version.png"  class="lazy" data-ngid="11" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/harnessv3-bw%20version.png"></a>
+	
+	</div>
+  
+  <!-- album end -->
+  
+  <div id="kink1" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/kinktober"
+	}'> 
+
+<!-- FIRST ALBUM -->
+   
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/whippingv3.png"           data-ngkind="album" data-ngid="1"                     data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/whippingv3.png"></a>
+    
+  <a href="https://vsitante.neocities.org/nanogallery/kinktober/whippingv3.png" class="lazy" data-ngid="10" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/whippingv3.png"></a>
+  
+    <a href="https://vsitante.neocities.org/nanogallery/kinktober/whippingv3-1.png"  class="lazy" data-ngid="11" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/kinktober/whippingv3-1.png"></a>
+  
+  </div>
+  <!-- album end -->
+  
+  
+<h3 id="color">Color</h3>
+<div id="my_nanogallery2" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/color"
+	}'> 
+	
+			 <a href="https://vsitante.neocities.org/nanogallery/color/mag%20fluidv2.png" class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/color/mag%20fluidv2.png"></a>
+	
+		 <a href="https://vsitante.neocities.org/nanogallery/color/protect%20coloredv6.png" alt="Color picture. Against a background of different textures with shades of blue, white and purple colors, are three figures. All of them are holding each other in a totem pole-esque manner. The first figure, Astemar, is seated behind the second figure and looking at us with monstrous eyes. We cannot see her expression otherwise. Her upper body appears slightly deformed, given her oddly shaped chest. We can see she's wearing a top cut off at the midriff, as well as wearing boots. One of Astemar's hand is on the second figure's head, gently--while her other hand and arm are around his chest and shoulders. The second figure is Magnus, who's wholly naked. He has his eyes closed as he's tenderly holding onto a small girl, as he's sitting down with his legs bent towards himself. The little girl is Astemar once again, in a turquoise-shaded long sleeved dress. Her eyes are closed as she's resting against Magnus' chest." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/color/protect%20coloredv6.png"></a>
+	
+		 <a href="https://vsitante.neocities.org/nanogallery/color/collars.png" alt="Color picture. Against a red background that unites with Astemar's long jacket, she and Magnus are kissing, though we see him from behind only. She's inked in red while he's inked in a darker shade of pink. She's dressed in what looks to be a fancy bikini while he's in a simple buttoned shirt and pants. The only black colored thing here are the collars that they're both wearing, and holding onto from each other." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/color/collars.png"></a>
+	
+	 <a href="https://vsitante.neocities.org/nanogallery/color/aste%20artsyv3.png" alt="Color picture. Against a black background, Astemar is colored blue to indicate a calm state of things. She is laying on her side, semi-curled, though it looks like she's sitting down to us. Her hand's up with intent to possibly cover her face--though it looks as if she's nursing a migraine. Regardless, she's blushing intensely. Her other hand is on her open thigh, possibly hiding the bite marks. There's black fabric draped on her leg, with the other half draped barely around her leg. The latter is bent upwards, with her butt colored red in symbolism of what's happened: white, sticky fluid is coming out of her lady parts." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/color/aste%20artsyv3.png"></a>
+	
+	 <a href="https://vsitante.neocities.org/nanogallery/color/very%20symbolic%20who's%20the%20monster%20and%20who's%20the%20manv3.png" alt="A devil-horned woman, in this case Astemar, is staring at us with an ambiguous expression. She has on death metal-kind of makeup, with black circles around her eyes that are dripping down her cheeks and onto her clavicle. Her eyes are red glowing yellow. She has elfen ears. Atop her head is a stump breathing fire, while in her hand, she grasps a flaming heart. Naked, her other hand is gently placed near the back of Magnus, who is wrapped around her bottom half. He's looking at us as if we should be jealous he's there. He looks possessive as well. His upper half is naked." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/color/very%20symbolic%20who's%20the%20monster%20and%20who's%20the%20manv3.png"></a>
+	
+	  <a href="https://vsitante.neocities.org/nanogallery/color/Illustrationv5.png" alt="Color picture, almost like an early 20th century poster ad. There's a woman covering her chest with her hands, as she's kneeling down. She appears to be headless, despite her hair being present--there's a hole where her head should be. Under her hands, between her breasts, peeks out an eye in red and glowing yellow. From her lower half, blood is spilling all over, eventually dripping down from the floor. There's text above and on her. In uppercase/all caps. Text above: I am not an obscure object of desire nor am I a child of man. Text on her: I am a child of god and I have been murdered by man for their pleasure." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/color/Illustrationv5.png"></a>
+
+		  <a href="https://vsitante.neocities.org/nanogallery/color/magastev5.png" alt="A young man is in ecstasy at being eaten out by her older husband. She's not exactly on the edge of the bed, but close to it. Her shirt's opened haphazardly to reveal her breasts, and the only other piece of clothing she has on are her socks. Bite marks around one of her breasts and her lower thigh can be seen. She's gripping the bed for dear life. Her husband is kneeling on the floor, fully clothed save for his penis--he has that out and stroking it as he eats his wife out. You see those slippers of his? Straight out of some old movie. He looks at peace being between her legs though. To the corner of the floor, we can see her dress tossed without a thought. The entire picture is in shades of red, to reflect their levels of passion respectively." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/color/magastev5.png"></a>
+	  
+	    <a href="https://vsitante.neocities.org/nanogallery/color/maxmag.png" alt="Hey, did you know sometimes writing alt text for certain types of porn is hugely embarrassing? No? Must be a me problem then. Anyway, an attempt: two men in the throes of sex. One's hairier than the other. The hairy one is touching the other's breasts (almost hiding it from us) at the same time as he's teasing him downstairs. The not hairy one still has his shirt on. There's also two cell phones forgotten about in the corner of the bed. Also one of them's trans and it's the guy with the shirt, k i'm done enjoy" class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/color/maxmag.png"></a>
+  </div>
+
+<h3 id="bw">Black-and-white/toned</h3>
+<div id="my_nanogallery9" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/bw"
+	}'> 
+
+<!-- FIRST ALBUM -->
+   
+  <a href="https://vsitante.neocities.org/nanogallery/bw/bite1.png"           data-ngkind="album" data-ngid="1"                     data-ngthumb="https://vsitante.neocities.org/nanogallery/bw/bite1.png"></a>
+    
+  <a href="https://vsitante.neocities.org/nanogallery/bw/bite1.png"  alt="Against a black background that has also formed part of her shoulder length dress, Astemar has her eyes closed. A hand is reaching up to caress her cheek. We see that on her left shoulder, there appears to be a badly healed human bite."   class="lazy" data-ngid="10" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/bw/bite1.png"></a>
+  
+    <a href="https://vsitante.neocities.org/nanogallery/bw/bite2.png"      alt="Against a black background that has also formed part of her shoulder length dress, Astemar has opened her eyes. Her expression is ambiguous. A hand is reaching up to caress her cheek. We see that on her left shoulder, there appears to be a badly healed human bite."               class="lazy" data-ngid="11" data-ngalbumid="1" data-ngthumb="https://vsitante.neocities.org/nanogallery/bw/bite2.png"></a>
+  
+  <!-- album end -->
+  
+    <a href="https://vsitante.neocities.org/nanogallery/bw/langchibi.png" alt="Black and white toned chibi picture of Astemar in her warrior outfit, holding a displeased Magnus in her arms. She's saying zettai daijoubu yo! (Everything will be all right!) while he's saying ...Oui, bien sûr... (...Yes, of course...) He looks dapper in his suit, don't he?" class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/bw/langchibi.png"></a>
+	
+	
+    <a href="https://vsitante.neocities.org/nanogallery/bw/astemagdeathv2.png" alt="Black and white with color spots and some color ink. Amidst a scenery of destruction, Magnus is shell-shocked, looking into the distance as he holds tightly onto Astemar--who's in her warrior form, bloodied. Her neck is broken in two, bones sticking out, as her head is also split, only the tongue and upper lip remaining as brain guts droop from her now quite empty head space." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/bw/astemagdeathv2.png"></a>	
+  
+    <a href="https://vsitante.neocities.org/nanogallery/bw/magast_sketch.png" alt="Black and white with tones. A couple, a woman and an older man, appear to be chatting. She seems done with whatever he's saying, while he seems to be talking about something he clearly think is relevant. In the background, their shadows reflect back, though the woman's shadow appears to be more of a monstrous entity, autonomous, wrapping around the other man's shadow (or is it his shadow?!)" class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/bw/magast_sketch.png"></a>
+	
+</div>
+	
+<h3 id="sketch">Sketches</h3>
+
+<div id="my_nanogallery10" data-nanogallery2 = '{ 
+    "thumbnailWidth":   "300 XS100 LA400 XL500",
+   "thumbnailHeight":  "200 XS80 LA250 XL350"
+	 "itemsBaseURL": "https://vsitante.neocities.org/nanogallery/sketches"
+	}'> 
+
+ <a href="https://vsitante.neocities.org/nanogallery/sketches/maxmagchill.png" alt="Color picture, with reddish beige and blue tones. A trans man is standing up in bed, looking back with a sort of sadness and longing, while a cis, hairy man is curling up from behind him. Second man doesn't know how the other one is looking at him." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/sketches/maxmagchill.png"></a>
+ 
+ <a href="https://vsitante.neocities.org/nanogallery/sketches/pride2023_an%20attempt.png" alt="Color picture in shades of blue. A young married woman has crossed her arms on a surface and is resting on said arms. She appears to be staring with sadness and solemnity (perhaps one might say longing) to the side, specifically to a pin. This pin has the design of the friendship flag pins except this pin represents asexual + Puerto Rican sides. I think, I don't know how to describe that, I just think the idea is cool and I was very disappointed to not find it existing already. Somebody get on it and credit me lol" class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/sketches/pride2023_an%20attempt.png"></a>
+ 
+ <a href="https://vsitante.neocities.org/nanogallery/sketches/fami.png" alt="A young woman is surrounded by a gaggle of three kids. They all appear to be looking at the camera with different emotions." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/sketches/fami.png"></a>
+  
+   <a href="https://vsitante.neocities.org/nanogallery/sketches/astmagmiv3.png" alt="Colored sketch of three adults, though each one is colored differently. The one on the left is colored completely red, looking at either both or at the other man next to the woman. He's finished climaxing inside her, as she appears to be coming down from said climax. Her head also appears to be turning to him, as she's placed between the two men in the picture, and is colored a lighter red, almost pinkish. Meanwhile, the other man at the right is colored shades of blue and turquoise. He also looks like he may climax or has already climaxed. I already probably said this in the actual post but this was an attempt at post-metoidioplasty surgery for him. Uhhhhh hope I drew it good, okay bye, this is actually embarrassing." class="lazy" data-ngthumb="https://vsitante.neocities.org/nanogallery/sketches/astmagmiv3.png"></a>
+   
+    
+</div>
