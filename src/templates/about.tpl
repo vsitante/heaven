@@ -4,7 +4,7 @@
 {# This is the start of the `content` block. It's part of the <body> of the page. This is where all the visible
    parts of the website after the links bar and before the "Powered by comic_git" footer go. #}
 {% block content %}
- <h1 id="page-title">an entity about the nature of love and desire and need</h1>
+ <h1>an entity about the nature of love and desire and need</h1>
 <p>a proper synopsis will go here one day. for now, have the work in progress one below</p>
         <hr id="post-body-break">
 		        <div id="post-body">
