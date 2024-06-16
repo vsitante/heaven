@@ -9,4 +9,5 @@
         <hr id="post-body-break">
 		        <div id="post-body">
 <p>a novella about astemar giralt, a legendary idol singer who also can wield magic and ride robots. Yet at her core, what she wants is a normal life, free of predestined struggle and escapes of personal trauma. At the intersection between old adolescence and adulthood, she meets two men, magnus power and max arizmendi, who will slowly unravel her taut psyche—and in the process, break open their own shells.</p>
+</div>
 {% endblock %}
